@@ -35,6 +35,7 @@
     1. TFT_eSPI
     2. SD
     3. FS
+    4. JPEGDecoder (Bodmer)
 
 ## Build and Download
 1. Copy ESP32_JD_STATE_2.ino into a new Sketch folder in Arduino IDE
